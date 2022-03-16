@@ -1,0 +1,15 @@
+node_modules/
+!node_modules/react-native-element-timer/src/CountDown/index.tsx
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
